@@ -1,8 +1,0 @@
-{
-  "$schema": "http://json.schemastore.org/package",
-  "jspm": {
-    "map": {
-      "source-map-support": "@empty"
-    }
-  }
-}
